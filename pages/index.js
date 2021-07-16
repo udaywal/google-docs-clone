@@ -17,7 +17,7 @@ export default function Home() {
     <div>
       
       <Head>
-        <title>Google Docs</title>
+        <title>Google Docs: Free Online Docs for Personal Use</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
